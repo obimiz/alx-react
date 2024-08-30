@@ -46,3 +46,7 @@ hr{
   font-style: italic;
 }
 
+form input{
+  margin: 10px;
+}
+
