@@ -1,4 +1,4 @@
-import { Map } from  'Immutable';
+import { Map } from 'immutable';
 
 const getImmutableObject = (object) => Map(object);
 
